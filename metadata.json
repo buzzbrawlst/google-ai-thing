@@ -1,0 +1,6 @@
+{
+  "name": "Fortnite 3D - Battle Royale",
+  "description": "High-performance 3D Fortnite Battle Royale web clone featuring real-time building mechanics, storm circles, golden chests, weapon arsenal, gliders, and smart multiplayer bot lobbies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
